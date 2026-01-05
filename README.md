@@ -42,7 +42,7 @@ ______________________________
 Usage
 -----
 
-- Click on Code > [Download ZIP](https://github.com/abbodi1406/ConsumerESU/archive/refs/heads/master.zip) button at the top to download.
+- Click on Code > Download ZIP button at the top to download, or from latest releases version.
 - Extract all files from the ZIP file.
 - Run `Consumer_ESU_Enrollment_run.cmd` as administrator.
 
@@ -50,7 +50,7 @@ Advanced Usage
 --------------
 
 ***Command Prompt:***  
-- Click on Code > [Download ZIP](https://github.com/abbodi1406/ConsumerESU/archive/refs/heads/master.zip) button at the top to download.
+- Click on Code > Download ZIP button at the top to download, or from latest releases version.
 - Extract all files from the ZIP file.
 - Run *`Command Prompt`* as administrator in the same folder where you located the extracted files, or change location to it using `cd /d` command.
 - Execute `Consumer_ESU_Enrollment_run.cmd` with the wanted optional parameters
@@ -61,7 +61,7 @@ Advanced Usage
 `Consumer_ESU_Enrollment_run.cmd -Reset`
 
 ***Windows Powershell:***  
-- Click on Code > [Download ZIP](https://github.com/abbodi1406/ConsumerESU/archive/refs/heads/master.zip) button at the top to download.
+- Click on Code > Download ZIP button at the top to download, or from latest releases version.
 - Extract all files from the ZIP file.
 - Run *`Windows Powershell`* as administrator in the same folder where you located the extracted files, or change location to it using `cd` command.
 - Temporary allow running unsigned scripts:  
@@ -172,3 +172,6 @@ or run *`Windows Powershell`* and execute:
 
 - Restore your original region location, manually or using powershell as before.
 </details>
+
+---
+[![ko-fi.com](https://img.shields.io/badge/Ko--fi-Buy_Me_a_Coffee-F16000)](https://ko-fi.com/abbodi1406)
